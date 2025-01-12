@@ -52,6 +52,7 @@ img {
 .info_text {
     width: 150px;
 }
+
 .quote {
     background-color: #E5E7EB;
     color: #1F2937;
@@ -75,6 +76,7 @@ img {
     margin-top: 0;
     margin-bottom: 50px;
 }
+
 .signup_box {
     background-color: #3882F6;
     border-radius: 8px;
@@ -112,6 +114,7 @@ img {
     border-radius: 5px;
     align-self: center;
 }
+
 .footer {
     padding: 10px;
     display: flex;
